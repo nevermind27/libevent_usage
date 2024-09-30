@@ -8,7 +8,7 @@
 ![изображение](https://github.com/user-attachments/assets/336c4e73-524d-40af-9cc3-db031952295d)  
  
 После этого, если все успешно, увидим следующее на клиенте:  
-![изображение](https://github.com/user-attachments/assets/8ab6bab1-3b4c-4303-86db-8143c11e2cf0)  
+![изображение](https://github.com/user-attachments/assets/796bfaf1-8f2c-4404-8a33-081431ee1874)
 
 И на сервере:  
 ![изображение](https://github.com/user-attachments/assets/e14e898b-e6ae-4dd6-9e1f-d162806d8686)  
